@@ -111,7 +111,7 @@ s.aStore.extract(rstore="onnxstore")
 
 * [ASTORE Documentation](https://go.documentation.sas.com/doc/en/pgmsascdc/v_018/casactml/casactml_astore_toc.htm)  
 * [SAS Communities: ASTORE Wrapper for ONNX, Dataviz in Microsoft 365](https://communities.sas.com/t5/SAS-Community-Events/ASTORE-Wrapper-for-ONNX-Dataviz-in-Microsoft-365-SAS-Viya-2021-1/ev-p/780472)  
-* Blog posts (coming soon)
+* SAS Blog post: [Integrating ONNX models into ASTORE](https://blogs.sas.com/content/subconsciousmusings/2022/01/24/integrating-onnx-models-into-astore/)
 * Technical details about [how SAS Event Stream Processing deploys offline model](https://go.documentation.sas.com/?cdcId=espcdc&cdcVersion=6.2&docsetId=espan&docsetTarget=p0wmfh8n175cvmn14z6iamhb8zfk.htm&locale=en)
 * Reference for [Using Python Interface](https://go.documentation.sas.com/?cdcId=espcdc&cdcVersion=6.2&docsetId=espmdlpython&docsetTarget=titlepage.htm&locale=en)
 * Reference for [Getting Started with SAS Viya for Python](https://go.documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=caspg3&docsetTarget=titlepage.htm&locale=en)
